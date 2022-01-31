@@ -1,2 +1,3 @@
 # diabetes_detection
 detects wheteher the pateint have diabetes or not from some given inputs.....
+dataset link:- https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0
